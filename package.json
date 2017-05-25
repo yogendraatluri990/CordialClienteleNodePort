@@ -1,0 +1,28 @@
+{
+  "name": "'cordialclientelenodeport'",
+  "version": "0.0.1",
+  "description": "'This is cordialClientele node port '",
+  "main": "cordialclienteleNodeApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogendraatluri990/CordialClienteleNodePort.git"
+  },
+  "author": "'Yogendra.Atluri'",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yogendraatluri990/CordialClienteleNodePort/issues"
+  },
+  "homepage": "https://github.com/yogendraatluri990/CordialClienteleNodePort#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jasmine-node": "^1.14.5",
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.3"
+  }
+}
